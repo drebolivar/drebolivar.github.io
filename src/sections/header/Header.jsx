@@ -20,8 +20,8 @@ const Header = () => {
         <h4 data-aos="fade-up">Full-Stack Developer/Software Engineer</h4>
         <p data-aos="fade-up">
           Welcome and thank you for visiting! Make yourself comfortable, feel
-          free to change the aesthic of this site with the paint can above, and
-          let's get to know each other a little better.
+          free to change the aesthetic of this site with the paint can above,
+          and let's get to know each other a little better.
         </p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">
