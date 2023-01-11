@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76dc5df8.css",
+    "main.js": "/static/js/main.1ef1630e.js",
+    "static/media/roshambogurui.png": "/static/media/roshambogurui.7d91aedc8aae76817b65.png",
+    "static/media/CUL8R2.png": "/static/media/CUL8R2.ee1ed86ea6acbad12e4d.png",
+    "static/media/fortuna3.png": "/static/media/fortuna3.d80d4c6d3340650c088b.png",
+    "static/media/nostalgia_game.png": "/static/media/nostalgia_game.d0c092200753c5561b87.png",
+    "static/media/buckdre.jpg": "/static/media/buckdre.d87646dbc722a0e6e159.jpg",
+    "static/media/header.jpg": "/static/media/header.0c3a29d72a2c2c41125b.jpg",
+    "static/media/polygonprofile.jpg": "/static/media/polygonprofile.d404daa1386807947bd2.jpg",
+    "static/media/ABCV.pdf": "/static/media/ABCV.4064c749c272486644f4.pdf",
+    "static/media/TTT2.png": "/static/media/TTT2.b9e3543a72c0396a2876.png",
+    "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar7.jpg": "/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
+    "static/media/avatar6.jpg": "/static/media/avatar6.8fbcd9d41881b442663e.jpg",
+    "index.html": "/index.html",
+    "main.76dc5df8.css.map": "/static/css/main.76dc5df8.css.map",
+    "main.1ef1630e.js.map": "/static/js/main.1ef1630e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76dc5df8.css",
+    "static/js/main.1ef1630e.js"
+  ]
+}
