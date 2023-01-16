@@ -24,7 +24,7 @@ const Portfolio = () => {
 
   return (
     <section id="portfolio">
-      <h2>Projects 💾 </h2>
+      <h2>My Projects 💾 </h2>
       <p>Check out some of the projects I recently worked on.</p>
       <div className="container portfolio__container">
         {/* <ProjectsCategories categories={uniqueCategories} onFilterProjects={filterProjectsHandler}/> */}

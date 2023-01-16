@@ -10,7 +10,7 @@ const data = [
     category: 'frontend',
     image: Image1,
     title: 'CU-L8R',
-    desc: 'a localized watchlist for households that have had many a difficult movie night trying to figure out what to watch. Created using MERN (Mongoose/Express/React/Node)',
+    desc: 'a localized watchlist for households that have had many a difficult movie night trying to figure out what to watch. Created using MERN stack (Mongoose/Express/React/Node)',
     demo: 'https://cul8r.netlify.app/',
     github: 'https://github.com/drebolivar/CU-L8R'
   },
@@ -28,7 +28,7 @@ const data = [
     category: 'frontend',
     image: Image3,
     title: 'Nostalgia_Game',
-    desc: 'A memory game with a focus on nostalgia and * a e s t h e t i c *. Created with Jaavascript',
+    desc: 'A memory game with a focus on nostalgia and * a e s t h e t i c *. Created with Javascript',
     demo: 'https://nostalgia_game.surge.sh',
     github: 'https://github.com/drebolivar/Nostalgia_Game'
   },
@@ -37,7 +37,7 @@ const data = [
     category: 'frontend',
     image: Image4,
     title: 'Ro-Sham-Bo-Gurui',
-    desc: 'A Rock-Paper-Scissors game I created with Vue while I was weirdly obsessed with gaambling-centric Netflix anime series "Kakegurui" (highly recommend)',
+    desc: 'A Rock-Paper-Scissors game I created with Vue.js while I was weirdly obsessed with gambling-centric Netflix anime series "Kakegurui" (highly recommend)',
     demo: 'https://roshambogurui.netlify.app/',
     github: 'https://github.com/drebolivar/Ro-Sham-Bo-Gurui'
   },
@@ -46,7 +46,7 @@ const data = [
     category: 'frontend',
     image: Image5,
     title: 'Tic-Tac-Toe',
-    desc: "First project I ever worked on, prior to any training or enrolling in General Assembly. Make sure to play through for my favorite victory sound ever created (it's nostalgia and ASMR to my brain)",
+    desc: 'First project I ever worked on, prior to any training or enrolling in General Assembly.',
     demo: 'https://dretictactoe.surge.sh/',
     github: 'https://github.com/drebolivar/tictactoe'
   }

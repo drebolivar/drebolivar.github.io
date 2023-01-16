@@ -19,18 +19,18 @@ const Header = () => {
         <h3 data-aos="fade-up">Andres 'Dre' Bolivar (@dredose)</h3>
         <h4 data-aos="fade-up">Full-Stack Developer/Software Engineer</h4>
         <p data-aos="fade-up">
-          Welcome and thank you for visiting! Make yourself comfortable, feel
-          free to change the aesthetic of this site with the paint can above,
-          and let's get to know each other a little better.
+          Welcome! Make yourself comfortable, feel free to change the aesthetic
+          of this site with the paint can above, and let's get to know each
+          other a little better.
         </p>
-        <div className="header__cta" data-aos="fade-up">
+        {/* <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">
-            Let's Talk
+            Contact
           </a>
           <a href="#portfolio" className="btn light">
-            My Work
+            Portfolio
           </a>
-        </div>
+        </div> */}
         <div className="header__socials">
           {data.map((item) => (
             <a
