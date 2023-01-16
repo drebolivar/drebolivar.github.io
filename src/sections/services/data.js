@@ -30,6 +30,8 @@ import {
   SiFirebase
 } from 'react-icons/si'
 
+import { AiOutlineConsoleSql } from 'react-icons/ai'
+
 import { TbApi } from 'react-icons/tb'
 const data = [
   {
@@ -191,6 +193,12 @@ const data = [
     id: 27,
     icon: <SiFirebase />,
     title: 'Firebase',
+    desc: ''
+  },
+  {
+    id: 28,
+    icon: <AiOutlineConsoleSql />,
+    title: 'SQL',
     desc: ''
   }
 ]

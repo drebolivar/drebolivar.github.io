@@ -47,8 +47,8 @@ const data = [
     image: Image5,
     title: 'Tic-Tac-Toe',
     desc: 'First project I ever worked on, prior to any training or enrolling in General Assembly.',
-    demo: 'https://dretictactoe.surge.sh/',
-    github: 'https://github.com/drebolivar/tictactoe'
+    demo: 'https://ab-tictactoe.surge.sh/',
+    github: 'https://github.com/drebolivar/tictactoegame'
   }
 ]
 
