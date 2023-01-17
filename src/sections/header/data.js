@@ -6,6 +6,7 @@ import {
   AiOutlineYoutube
 } from 'react-icons/ai'
 import { RiSpotifyLine } from 'react-icons/ri'
+import { SiLetterboxd } from 'react-icons/si'
 
 const data = [
   {
@@ -26,11 +27,16 @@ const data = [
   { id: 4, link: 'https://www.github.com/drebolivar', icon: <AiFillGithub /> },
   {
     id: 5,
+    link: 'https://letterboxd.com/dredose/',
+    icon: <SiLetterboxd />
+  },
+  {
+    id: 6,
     link: 'https://open.spotify.com/user/dredose',
     icon: <RiSpotifyLine />
   },
   {
-    id: 6,
+    id: 7,
     link: 'https://www.youtube.com/@dredose',
     icon: <AiOutlineYoutube />
   }
