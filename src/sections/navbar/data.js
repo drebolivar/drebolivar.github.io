@@ -1,8 +1,8 @@
 const data = [
   { id: 1, link: '#', title: 'Home' },
   { id: 2, link: '#about', title: 'About' },
-  { id: 3, link: '#services', title: 'Toolkit' },
-  { id: 4, link: '#portfolio', title: 'Projects' },
+  { id: 3, link: '#portfolio', title: 'Projects' },
+  { id: 4, link: '#services', title: 'Toolkit' },
   { id: 5, link: '#contact', title: 'Contact' }
 ]
 
