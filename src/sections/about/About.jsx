@@ -1,5 +1,5 @@
-import AboutImage from '../../assets/buckdre.jpg'
-import CV from '../../assets/Andres_Bolivar_Resume_2023.pdf'
+import AboutImage from '../../assets/aboutimage5.jpg'
+import CV from '../../assets/Andres_Bolivar_Resume.pdf'
 import { HiDownload } from 'react-icons/hi'
 import data from './data'
 import Card from '../../components/Card'
@@ -42,7 +42,7 @@ const About = () => {
             Film and Television, Photography, Reading (actual books, comics
             books, & manga), Anime, Video Games, Music, Skateboarding, Hiking +
             Camping, and most importantly rescuing and fostering dogs like my
-            baby Bucky (pictured left)
+            baby Bucky (pictured all throughout my instagram)
           </p>
           <a href={CV} download className="btn primary">
             Download Resume <HiDownload />
