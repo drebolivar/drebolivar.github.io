@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5afa2707.css",
-    "main.js": "/static/js/main.bffbf5f6.js",
+    "main.css": "/static/css/main.f1d4577f.css",
+    "main.js": "/static/js/main.5d73a84c.js",
     "static/media/roshambogurui.png": "/static/media/roshambogurui.7d91aedc8aae76817b65.png",
     "static/media/CUL8R2.png": "/static/media/CUL8R2.ee1ed86ea6acbad12e4d.png",
     "static/media/fortuna3.png": "/static/media/fortuna3.d80d4c6d3340650c088b.png",
@@ -9,17 +9,14 @@
     "static/media/buckdre.jpg": "/static/media/buckdre.d87646dbc722a0e6e159.jpg",
     "static/media/header.jpg": "/static/media/header.0c3a29d72a2c2c41125b.jpg",
     "static/media/polygonprofile.jpg": "/static/media/polygonprofile.d404daa1386807947bd2.jpg",
-    "static/media/AndresBolivarResume2023.pdf": "/static/media/AndresBolivarResume2023.1ff81532e642ae3a9c33.pdf",
+    "static/media/Andres_Bolivar_Resume_2023.pdf": "/static/media/Andres_Bolivar_Resume_2023.602a3ccbfe6284e0957c.pdf",
     "static/media/TTT2.png": "/static/media/TTT2.b9e3543a72c0396a2876.png",
-    "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
-    "static/media/avatar7.jpg": "/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
-    "static/media/avatar6.jpg": "/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/index.html",
-    "main.5afa2707.css.map": "/static/css/main.5afa2707.css.map",
-    "main.bffbf5f6.js.map": "/static/js/main.bffbf5f6.js.map"
+    "main.f1d4577f.css.map": "/static/css/main.f1d4577f.css.map",
+    "main.5d73a84c.js.map": "/static/js/main.5d73a84c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5afa2707.css",
-    "static/js/main.bffbf5f6.js"
+    "static/css/main.f1d4577f.css",
+    "static/js/main.5d73a84c.js"
   ]
 }
