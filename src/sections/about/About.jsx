@@ -1,5 +1,5 @@
 import AboutImage from '../../assets/buckdre.jpg'
-import CV from '../../assets/AndresBolivarResume2023.pdf'
+import CV from '../../assets/Andres_Bolivar_Resume_2023.pdf'
 import { HiDownload } from 'react-icons/hi'
 import data from './data'
 import Card from '../../components/Card'
