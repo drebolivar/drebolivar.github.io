@@ -7,7 +7,7 @@ const Services = () => {
     <section id="services">
       <h2>My Toolkit 🧰</h2>
       <p>
-        Below are some of the programming languages, frameworks, daatabases, and
+        Below are some of the programming languages, frameworks, databases, and
         tools I have expertise in:{' '}
       </p>
       <div className="container services__container" data-aos="fade-up">
