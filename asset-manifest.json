@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1d4577f.css",
-    "main.js": "/static/js/main.58233176.js",
+    "main.js": "/static/js/main.160bca73.js",
     "static/media/roshambogurui.png": "/static/media/roshambogurui.7d91aedc8aae76817b65.png",
     "static/media/CUL8R2.png": "/static/media/CUL8R2.ee1ed86ea6acbad12e4d.png",
     "static/media/fortuna3.png": "/static/media/fortuna3.d80d4c6d3340650c088b.png",
@@ -9,14 +9,14 @@
     "static/media/aboutimage5.jpg": "/static/media/aboutimage5.0f8c5b97381b4140326f.jpg",
     "static/media/header1.jpg": "/static/media/header1.57b6e5fd4876561f6053.jpg",
     "static/media/polygonprofile.jpg": "/static/media/polygonprofile.d404daa1386807947bd2.jpg",
-    "static/media/Andres_Bolivar_Resume.pdf": "/static/media/Andres_Bolivar_Resume.c8435c48eefc160ef166.pdf",
+    "static/media/Andres_Bolivar_Resume_2.pdf": "/static/media/Andres_Bolivar_Resume_2.42f81b63a61eef2421d6.pdf",
     "static/media/TTT2.png": "/static/media/TTT2.b9e3543a72c0396a2876.png",
     "index.html": "/index.html",
     "main.f1d4577f.css.map": "/static/css/main.f1d4577f.css.map",
-    "main.58233176.js.map": "/static/js/main.58233176.js.map"
+    "main.160bca73.js.map": "/static/js/main.160bca73.js.map"
   },
   "entrypoints": [
     "static/css/main.f1d4577f.css",
-    "static/js/main.58233176.js"
+    "static/js/main.160bca73.js"
   ]
 }
