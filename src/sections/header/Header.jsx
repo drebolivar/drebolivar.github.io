@@ -17,7 +17,7 @@ const Header = () => {
           <img src={HeaderImage} alt="Header Portait" />
         </div>
         <h3 data-aos="fade-up">Andres 'Dre' Bolivar (@dredose)</h3>
-        <h4 data-aos="fade-up">Full-Stack Developer/Software Engineer</h4>
+        <h4 data-aos="fade-up">Full-Stack Software Engineer</h4>
         <p data-aos="fade-up">
           Welcome! Make yourself comfortable, feel free to change the aesthetic
           of this site with the paint can above, and let's get to know each
