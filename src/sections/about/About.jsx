@@ -1,9 +1,10 @@
-import AboutImage from '../../assets/aboutimage5.jpg'
-import CV from '../../assets/Andres_Bolivar_Resume_2.pdf'
-import { HiDownload } from 'react-icons/hi'
-import data from './data'
-import Card from '../../components/Card'
-import './about.css'
+import AboutImage from "../../assets/aboutimage5.jpg";
+import CV1 from "../../assets/AB_CV_Full.pdf";
+import CV2 from "../../assets/AB_CV_Lite.pdf";
+import { HiDownload } from "react-icons/hi";
+import data from "./data";
+import Card from "../../components/Card";
+import "./about.css";
 
 const About = () => {
   return (
@@ -44,13 +45,18 @@ const About = () => {
             Camping, and most importantly rescuing and fostering dogs like my
             baby Bucky (pictured all throughout my instagram)
           </p>
-          <a href={CV} download className="btn primary">
-            Download Resume <HiDownload />
+          <a href={CV1} download className="btn primary">
+            Download Resume (Full)
+            <HiDownload />
+          </a>
+          <a href={CV2} download className="btn primary">
+            Download Resume (Lite)
+            <HiDownload />
           </a>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;
